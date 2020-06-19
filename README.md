@@ -16,9 +16,9 @@ powershell ./makehd.ps1
 
 create virtualbox(or other) vm
 
-use built hd.vhd as hard disk for a virtualbox
+use built hd.vhd as hard disk for vm
 
-enable efi
+enable efi in the vm
 
 run vm and in efi shell:
 ```
