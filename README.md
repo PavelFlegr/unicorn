@@ -1,7 +1,9 @@
 # Unicorn OS
 ## Build on Windows
 
-> git clone https://github.com/PavelFlegr/unicorn
+```
+git clone https://github.com/PavelFlegr/unicorn 
+```
 
 install hyper-v
 
