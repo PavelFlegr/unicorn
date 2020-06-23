@@ -1,6 +1,7 @@
-#include <efi.h>
-#include <efilib.h>
- 
+#include <Uefi.h>
+
+EFI_SYSTEM_TABLE *ST;
+
 EFI_STATUS efi_main(EFI_HANDLE ImageHandle, EFI_SYSTEM_TABLE *SystemTable)
 {
     EFI_STATUS Status;
